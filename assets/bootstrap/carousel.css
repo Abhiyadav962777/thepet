@@ -1,0 +1,9 @@
+.carousel-inner img {
+
+    max-height: 550px;
+    max-width: fit-content;
+}
+  
+  .carousel-indicators img {
+    max-width: 100px;
+  }
